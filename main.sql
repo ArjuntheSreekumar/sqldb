@@ -1,4 +1,4 @@
--- MySQL Database Project - Altered Version
+-- MySQL Database Project -
 
 -- Create the database
 CREATE DATABASE IF NOT EXISTS Cozy_Corner;
