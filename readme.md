@@ -79,7 +79,7 @@ FROM Bookings;
 ## 📂 Repository Structure
 
 ```
-├── cozy_corner.sql       # Complete SQL script
+├── main.sql       # Complete SQL script
 ├── README.md             # Project documentation
 ```
 
