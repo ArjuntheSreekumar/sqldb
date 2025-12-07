@@ -1,8 +1,8 @@
-# Cozy Corner - MySQL Database Project
+# Cozyspot MySQL Database Project
 
 ## 📘 Project Overview
 
-Cozy Corner is a fictional Mediterranean-style restaurant designed as part of a MySQL database project. The project models customer management, booking records, and course offerings through structured relational tables and demonstrates the use of SQL queries, constraints, views, procedures, and functions.
+Cozy spot is a fictional Mediterranean-style restaurant designed as part of a MySQL database project. The project models customer management, booking records, and course offerings through structured relational tables and demonstrates the use of SQL queries, constraints, views, procedures, and functions.
 
 ## 📁 Database Structure
 
